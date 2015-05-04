@@ -7,7 +7,8 @@ var gulp = require('gulp'),
     flatten = require('gulp-flatten'),
     notify = require('gulp-notify'),
     plumber = require('gulp-plumber'),
-    sass = require('gulp-sass');
+    sass = require('gulp-sass'),
+    beeper = require('beeper');
 
 
 // Project folders
