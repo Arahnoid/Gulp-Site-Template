@@ -1,6 +1,6 @@
 # Gulp-Site-Template
 
-Tthis is a simple `Gulp` basetd website template.
+This is a simple `Gulp` based website template.
 
 - - -
 
@@ -9,6 +9,6 @@ Tthis is a simple `Gulp` basetd website template.
 
 Execute `npm install` to install dev dependencies.
 
-`gulp` will run server with autoreload and will watch and reload page when sass, js, html files are changed.
+`gulp` command will run server and will reload page in browser when `sass`, `js`, `html` files are changed. Also will compile `sass` to `css`.
 
-`gulp sass` will compile sass files to css.
+`gulp sass` will compile `sass` files to `css`.

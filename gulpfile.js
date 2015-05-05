@@ -14,13 +14,13 @@ var gulp = require('gulp'),
 // Project folders
 var $ = {
     src:{
-        root: './App',
-        sass:'./App/sass/**/*.sass',
-        js: './App/js/**/*.js',
+        root: './app',
+        sass:'./app/sass/**/*.sass',
+        js: './app/js/**/*.js',
         html: './App/*.html'
     },
     dest:{
-        css:'./App/css/'
+        css:'./app/css/'
     }
 };
 
